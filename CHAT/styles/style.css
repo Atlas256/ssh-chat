@@ -1,0 +1,11 @@
+.chat {
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: 500;
+    color: #222;
+}
+
+.mail {
+    border: 1px solid #0001;
+    padding: 10px;
+}
